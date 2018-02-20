@@ -1,3 +1,6 @@
+#Goal
+Utilize YubiKey as authentication factor to gain access to resources
+
 # WebAuthnDemo
 An example Java Relying Party implementation of the [WebAuthn
 specification](https://w3c.github.io/webauthn/).
