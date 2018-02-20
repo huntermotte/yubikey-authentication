@@ -1,4 +1,4 @@
-#Goal
+# Goal
 Utilize YubiKey as authentication factor to gain access to resources
 
 # WebAuthnDemo
